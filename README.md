@@ -1,8 +1,6 @@
 # htmlcodes
 HTML Courses
 
-
-<!DOCTYPE html>
 <html>
 <body>
 
